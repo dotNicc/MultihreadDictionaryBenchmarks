@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiThreadedDictionaryTester", "MultiThreadedDictionaryTester\MultiThreadedDictionaryTester.csproj", "{5F1C3E13-F0FA-49BF-8978-9766F0EB474A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiThreadedDictionaryBenchmarks", "MultiThreadedDictionaryBenchmarks\MultiThreadedDictionaryBenchmarks.csproj", "{5F1C3E13-F0FA-49BF-8978-9766F0EB474A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
